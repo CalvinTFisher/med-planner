@@ -1,0 +1,18 @@
+# Node/React
+frontend/node_modules/
+frontend/build/
+*.log
+
+# CRA env
+frontend/.env
+frontend/.env.local
+
+# Python
+backend/.venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+
+# OS/Editors
+.DS_Store
+.vscode/
