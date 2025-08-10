@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "jsx": "react-jsx",
+    "skipLibCheck": true,
+    "noEmit": true,
+    "strict": true,
+    "noImplicitAny": false,
+    "baseUrl": "src",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "target": "ES2017",
+    "lib": ["DOM", "ES2020"]
+  },
+  "include": ["src"]
+}
